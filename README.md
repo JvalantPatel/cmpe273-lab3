@@ -1,4 +1,1 @@
-cmpe273-lab6
-============
-
-CMPE 273 Lab 6 Baseline
+This Lab demonstrates the concept of consistent hashing and how it can be used to design highly available systems.
